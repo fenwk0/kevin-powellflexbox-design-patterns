@@ -2,26 +2,26 @@
     width: 5rem;
     height: 5rem;
     border-width: 0.1rem;
-    border-style: dashed;
-    border-color: darkblue;
+    border-style: dotted;
+    border-color: ghostwhite;
     gap: 1rem;
     transition: background-color 2s;
 }
 
 .back-col-red {
-    background-color: red;
+    background-color: darkred;
 }
 
 .back-col-l-blue {
-    background-color: lightsteelblue;
+    background-color: darkslateblue;
 }
 
 .back-col-green {
-    background-color: green;
+    background-color: darkolivegreen;
 }
 
 .back-col-blue {
-    background-color: blue;
+    background-color: midnightblue;
 }
 
 .float-left {
